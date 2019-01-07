@@ -7,6 +7,6 @@ public class SimpleClass {
 
     @Test
     public void simpleTest(){
-        System.out.println("asd");
+        System.out.println("MIAU");
     }
 }
