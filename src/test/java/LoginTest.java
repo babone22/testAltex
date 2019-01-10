@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.AssertJUnit.assertTrue;
 
-public class SimpleClass {
+public class LoginTest {
 
 
     @Test

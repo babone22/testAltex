@@ -2,7 +2,7 @@
 <suite name="example suite 1" verbose="1" >
     <test name="Regression suite 1" >
         <classes>
-            <class name="test.java.SimpleClass"/>
+            <class name="test.java.RobotTest"/>
         </classes>
     </test>
 </suite>

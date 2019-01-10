@@ -20,7 +20,7 @@
                 <configuration>
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/asd.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/testingSuite.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
